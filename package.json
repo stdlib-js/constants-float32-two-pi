@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float32-two-pi",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "2π.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@stdlib/number-float64-base-to-float32": "^0.2.1",
-    "@stdlib/utils-library-manifest": "^0.2.1"
+    "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
