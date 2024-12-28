@@ -141,6 +141,14 @@ Macro for The mathematical constant [π][@stdlib/constants/float32/pi] times 2.
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float32/fourth-pi`][@stdlib/constants/float32/fourth-pi]</span><span class="delimiter">: </span><span class="description">1/4 times π.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/half-pi`][@stdlib/constants/float32/half-pi]</span><span class="delimiter">: </span><span class="description">1/2 times π.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/pi`][@stdlib/constants/float32/pi]</span><span class="delimiter">: </span><span class="description">π.</span>
+
 </section>
 
 <!-- /.related -->
@@ -218,6 +226,14 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float32-two-pi/main/LICENSE
 
 [@stdlib/constants/float32/pi]: https://github.com/stdlib-js/constants-float32-pi
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float32/fourth-pi]: https://github.com/stdlib-js/constants-float32-fourth-pi
+
+[@stdlib/constants/float32/half-pi]: https://github.com/stdlib-js/constants-float32-half-pi
+
+<!-- </related-links> -->
 
 </section>
 
