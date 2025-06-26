@@ -118,12 +118,12 @@ console.log( FLOAT32_TWO_PI );
 ### Usage
 
 ```c
-#include "stdlib/constants/float32/half_pi.h"
+#include "stdlib/constants/float32/two_pi.h"
 ```
 
 #### STDLIB_CONSTANT_FLOAT32_TWO_PI
 
-Macro for The mathematical constant [π][@stdlib/constants/float32/pi] times 2.
+Macro for the mathematical constant [π][@stdlib/constants/float32/pi] times 2.
 
 </section>
 
@@ -179,7 +179,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
